@@ -1,6 +1,6 @@
 # Brock Varzaly
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=900&size=29&duration=2000&pause=4000&color=585AF7&background=FFFFFF00&repeat=false&width=1000&lines=Financial+Code+Craftsman+(App+Founder%2F+Student%2F+Business+Owner)" alt="Typing SVG" /></a>
+<a href="https://discord.com/users/binarytheory">
+<img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=900&size=29&duration=2000&pause=4000&color=585AF7&background=FFFFFF00&width=1000&lines=App+Founder+%2F+Student+%2F+Business+Owner" alt="Typing SVG" /></a>
 
 <link rel="CSS" href="CSSCode">
 <p align="center">          
