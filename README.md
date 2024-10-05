@@ -10,7 +10,8 @@
     <img align="left" alt="Discord Add Link" width="40px" title="Discord" src="https://cdn.simpleicons.org/discord/5865F2.svg" style="padding-right:10px;"/></a> 
   
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
 
 <p>I'm a University Student with specialized skills in Finacial Programming using COBOL, full-stack Andriod and iOS Project Management, Functional and Object-Oriented programming,  EC2 geographical planning for cloud computing, and finally I have an understanding of how data flows on the IBMZ mainframes. I'm currently attending UNF for my undergraduate degree in Finance. My first project I created in highschool was WTMNOW which launched in 2021 on both Andriod and iOS from which I managed a team of developers, with the help of Gajendra & Rajdeep. I was unable to manage it while transitioning to University and decided passed it off to another board member. I currently run a small business with my wife handling International shipping and to door delivery called USTOHOME.
 </p>
