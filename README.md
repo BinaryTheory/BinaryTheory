@@ -1,7 +1,7 @@
 # Brock Varzaly
 
-**'Financial Code Craftsman (App Founder/ Student/ Business Owner)'**
-
+<h2>Financial Code Craftsman (App Founder/ Student/ Business Owner)</h2>
+<link rel="CSS" href="CSS/github.com">
 <p align="center">          
   <a href="https://www.linkedin.com/in/brock-varzaly-014b812aa/">
     <img align="left" alt="LinkedIn Link" width="40px" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
