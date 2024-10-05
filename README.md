@@ -1,13 +1,12 @@
 # Brock Varzaly
-<link rel="stylesheet" href="https://github.com/BinaryTheory/BinaryTheory/blob/main/styles.css">
-<div class="content">
-  <h1 class="title">
+<div style="position: relative; text-align: center; font-family: 'Inter', Arial, sans-serif; background-color: #000000; color: white; padding: 20px;">
+  <h1 style="position: relative; font-size: clamp(3rem, 8vw, 7rem); font-weight: 800; letter-spacing: clamp(-1.75px, -0.25vw, -3.5px); margin: 0; background-color: #000000; overflow: hidden;">
     Financial Code Craftsman (App Founder/ Student/ Business Owner)
-    <div class="aurora">
-      <div class="aurora__item"></div>
-      <div class="aurora__item"></div>
-      <div class="aurora__item"></div>
-      <div class="aurora__item"></div>
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
+      <div style="position: absolute; width: 60vw; height: 60vw; background-color: #00c2ff; border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%; filter: blur(1rem);"></div>
+      <div style="position: absolute; width: 60vw; height: 60vw; background-color: #ffc640; right: 0; top: 0; border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%; filter: blur(1rem);"></div>
+      <div style="position: absolute; width: 60vw; height: 60vw; background-color: #33ff8c; left: 0; bottom: 0; border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%; filter: blur(1rem);"></div>
+      <div style="position: absolute; width: 60vw; height: 60vw; background-color: #e54cff; right: 0; bottom: -50%; border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%; filter: blur(1rem);"></div>
     </div>
   </h1>
 </div>
