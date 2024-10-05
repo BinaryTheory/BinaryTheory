@@ -1,8 +1,8 @@
 # Brock Varzaly
-
-<h2>Financial Code Craftsman (App Founder/ Student/ Business Owner)</h2>
+<link rel="stylesheet" href="styles.css">
 <div class="content">
-  <h1 class="title">Financial Code Craftsman (App Founder/ Student/ Business Owner</title>
+  <h1 class="title">
+    Financial Code Craftsman (App Founder/ Student/ Business Owner
     <div class="aurora">
       <div class="aurora__item"></div>
       <div class="aurora__item"></div>
