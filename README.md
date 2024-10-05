@@ -5,7 +5,7 @@
 <p align="center">          
   <a href="https://www.linkedin.com/in/brock-varzaly-014b812aa/">
     <img align="left" alt="LinkedIn Link" width="40px" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
-  <a href="discord.com/users/binarytheory">
+  <a href="https://discord.com/users/binarytheory">
     <img align="left" alt="Discord Add Link" width="40px" title="Discord" src="https://cdn.simpleicons.org/discord/5865F2.svg" style="padding-right:10px;"/></a> 
   
 </p>
