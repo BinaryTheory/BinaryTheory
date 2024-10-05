@@ -9,5 +9,6 @@ I'm a University Student with specialized skills in Finacial Programming using C
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">          
   <a href="https://www.linkedin.com/in/brock-varzaly-014b812aa/">
-    <img alt="LinkedIn Link" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
+    <img align="left" alt="LinkedIn Link" width="26px" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
+
 </p>
