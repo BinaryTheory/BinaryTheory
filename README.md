@@ -1,5 +1,5 @@
 # Brock Varzaly
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://github.com/BinaryTheory/BinaryTheory/blob/main/styles.css">
 <div class="content">
   <h1 class="title">
     Financial Code Craftsman (App Founder/ Student/ Business Owner)
