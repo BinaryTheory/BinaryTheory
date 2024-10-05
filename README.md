@@ -1,4 +1,5 @@
-# Brock Varzaly
+<h1><font face="Comic Sans MS">Brock Varzaly
+
 <a href="https://discord.com/users/binarytheory">
 <img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=900&size=29&duration=2000&pause=4000&color=585AF7&background=FFFFFF00&width=1000&lines=App+Founder+%2F+Student+%2F+Business+Owner" alt="Typing SVG" /></a>
 
