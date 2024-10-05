@@ -1,15 +1,6 @@
 # Brock Varzaly
-<div style="position: relative; text-align: center; font-family: 'Inter', Arial, sans-serif; background-color: #000000; color: white; padding: 20px;">
-  <h1 style="position: relative; font-size: clamp(3rem, 8vw, 7rem); font-weight: 800; letter-spacing: clamp(-1.75px, -0.25vw, -3.5px); margin: 0; background-color: #000000; overflow: hidden;">
-    Financial Code Craftsman (App Founder/ Student/ Business Owner)
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; pointer-events: none;">
-      <div style="position: absolute; width: 60vw; height: 60vw; background-color: #00c2ff; border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%; filter: blur(1rem);"></div>
-      <div style="position: absolute; width: 60vw; height: 60vw; background-color: #ffc640; right: 0; top: 0; border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%; filter: blur(1rem);"></div>
-      <div style="position: absolute; width: 60vw; height: 60vw; background-color: #33ff8c; left: 0; bottom: 0; border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%; filter: blur(1rem);"></div>
-      <div style="position: absolute; width: 60vw; height: 60vw; background-color: #e54cff; right: 0; bottom: -50%; border-radius: 37% 29% 27% 27% / 28% 25% 41% 37%; filter: blur(1rem);"></div>
-    </div>
-  </h1>
-</div>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=900&size=25&pause=1000&color=585AF7&background=FFFFFF00&width=435&lines=Financial+Code+Craftsman+(App+Founder%2F+Student%2F+Business+Owner)" alt="Typing SVG" /></a>
 
 <link rel="CSS" href="CSSCode">
 <p align="center">          
