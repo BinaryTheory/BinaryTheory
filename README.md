@@ -1,6 +1,6 @@
 # Brock Varzaly
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=900&size=25&pause=1000&color=585AF7&background=FFFFFF00&width=435&lines=Financial+Code+Craftsman+(App+Founder%2F+Student%2F+Business+Owner)" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Rowdies&weight=900&size=25&pause=1000&color=585AF7&background=FFFFFF00&width=1000&lines=Financial+Code+Craftsman+(App+Founder%2F+Student%2F+Business+Owner)" alt="Typing SVG" /></a>
 
 <link rel="CSS" href="CSSCode">
 <p align="center">          
