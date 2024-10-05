@@ -6,8 +6,7 @@
   <a href="https://www.linkedin.com/in/brock-varzaly-014b812aa/">
     <img align="left" alt="LinkedIn Link" width="26px" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
   <a href="https://www.ibm.com/products/cobol-compiler-zos">
-    <img align="left" alt="IBMZ Enterprise Languages" width="26px" title="IBM z/OS" src="?logo=ibm--open-enterprise-languages" style="padding-right:10px;"/></a> 
-
+    <img align="left" alt="Discord Link" width="26px" title="Discord" src="#5865F2" style="padding-right:10px;"/></a> 
 </p>
 
 
